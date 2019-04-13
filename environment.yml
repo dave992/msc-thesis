@@ -1,0 +1,15 @@
+name: ms-thesis
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - tqdm
+  - cython
+  - pylint
+  - swig
+  - pip:
+    - tensorflow=1.13
+    - gym
